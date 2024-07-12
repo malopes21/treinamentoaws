@@ -7,7 +7,7 @@ function Users() {
 
   //const baseUrl = "http://localhost:8080/users/";
 
-  const baseUrl = "http://3.80.55.251:8081/users";
+  const baseUrl = "http://18.209.19.166:8081/users";
 
   const [users, setUsers] = useState([]);
 
