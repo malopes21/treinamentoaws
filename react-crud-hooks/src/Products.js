@@ -8,6 +8,7 @@ function Products() {
   //const baseUrl = "http://localhost:8080/products/";
 
   const baseUrl = "http://18.209.19.166:8081/products";
+  
 
   const [products, setProducts] = useState([]);
 
